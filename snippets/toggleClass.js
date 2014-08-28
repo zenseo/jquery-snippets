@@ -1,0 +1,1 @@
+$('nav a').toggleClass('selected');
